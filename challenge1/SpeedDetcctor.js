@@ -13,3 +13,9 @@ if (speed < 70) {
     console.log("Points: " + points);
   }
 }
+let count = 0;
+while (count < 5) {
+  console.log(`count $(count)`);
+  count = count + 5;
+}
+console.log(count);
