@@ -1,14 +1,28 @@
-this folder contains the sollution to the first code challenge the student grade calculator
+# (CodeGrade-Challenge)
 
-# (Project Name)
+#### Date, 2025/09/9
 
-#### Date, 2018/09/14
-
-#### By _Hamida Mstafa Mohamed_
+#### By Jeff thanduru
 
 ## Description
 
-It's a webpage that shows different types of triangles and what they look like.
+it is the solutions to the challenges presented
+
+first is a grade genarator and how the code functions is based on
+
+const mark = 58;
+
+if (mark >= 80) {
+console.log("A");
+} else if (mark >= 70) {
+console.log("B");
+} else if (mark >= 60) {
+console.log("c");
+} else if (mark >= 50) {
+console.log("D");
+}
+the explanation is that when the constant changes it showa where the grade would fall then
+i modifiied how the results would pan out
 
 ## Installation
 
